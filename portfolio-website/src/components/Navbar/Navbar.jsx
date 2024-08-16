@@ -28,7 +28,7 @@ function Navbar() {
                             <a className="menu-item" href="#contact">Contact Me</a>
                         </li>
                         <button className="contact-btn" onClick={() => {}}>
-                            Hire Me
+                            Get in touch
                         </button>
                     </ul>
                     <button className="menu-btn" onClick={toggleMenu} aria-label={openMenu ? "Close menu" : "Open menu"}>
