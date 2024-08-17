@@ -45,14 +45,14 @@
 }
 
 .hero-content {
-    max-width: 90%; /* Responsive max width */
-    padding: 1rem; /* Use rem for consistent spacing */
+    max-width: 50%; /* Responsive max width */
+    padding: 3.5 rem; /* Use rem for consistent spacing */
     text-align: center; /* Center text for smaller screens */
     z-index: 1;
 }
 
 .hero-content h1 {
-    font-size: 3.5rem; /* Responsive font size */
+    font-size: 3.5 rem; /* Responsive font size */
     font-weight: 700;
     line-height: 1.2;
 }
